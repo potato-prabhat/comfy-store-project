@@ -32,9 +32,9 @@ const Navbar = () => {
           {/* title */}
           <NavLink
             to="/"
-            className="hidden lg:flex btn btn-primary text-3xl items-center"
+            // className="hidden lg:flex btn btn-primary text-3xl items-center"
           >
-            C
+            <img src="/vite.svg" />
           </NavLink>
           {/* dropdown */}
           <div className="dropdown">
