@@ -6,7 +6,7 @@
 
 The Comfy Living Project is a React-based web application designed to provide a seamless online shopping experience. This project utilizes modern web development tools and libraries to ensure high performance and maintainability. Key features include a user-friendly interface, responsive design, efficient state management, and integration with backend services. The project also uses Tailwind CSS for styling, Redux Toolkit for state management, React Query for data fetching, and Vite for fast builds.
 
-**Live Demo:** [Comfy Store Project](https://6698f01f917dad0008b2984a--comfyliving.netlify.app/){:target="_blank"}
+**Live Demo:** [Comfy Store Project](https://6698f01f917dad0008b2984a--comfyliving.netlify.app/)
 
 ## Table of Contents
 
